@@ -1,0 +1,6 @@
+C:\Users\carlos.vo\c#\csharpbasic\Contract\bin\Debug\Contract.dll
+C:\Users\carlos.vo\c#\csharpbasic\Contract\bin\Debug\Contract.pdb
+C:\Users\carlos.vo\c#\csharpbasic\Contract\obj\Debug\Contract.csproj.AssemblyReference.cache
+C:\Users\carlos.vo\c#\csharpbasic\Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+C:\Users\carlos.vo\c#\csharpbasic\Contract\obj\Debug\Contract.dll
+C:\Users\carlos.vo\c#\csharpbasic\Contract\obj\Debug\Contract.pdb

@@ -1,0 +1,9 @@
+C:\Users\carlos.vo\c#\CsharpBasic\CarlosDataAnalyser\bin\Debug\CarlosDataAnalyser.dll
+C:\Users\carlos.vo\c#\CsharpBasic\CarlosDataAnalyser\bin\Debug\CarlosDataAnalyser.pdb
+C:\Users\carlos.vo\c#\CsharpBasic\CarlosDataAnalyser\bin\Debug\Contract.dll
+C:\Users\carlos.vo\c#\CsharpBasic\CarlosDataAnalyser\bin\Debug\Contract.pdb
+C:\Users\carlos.vo\c#\CsharpBasic\CarlosDataAnalyser\obj\Debug\CarlosDataAnalyser.csproj.AssemblyReference.cache
+C:\Users\carlos.vo\c#\CsharpBasic\CarlosDataAnalyser\obj\Debug\CarlosDataAnalyser.csproj.CoreCompileInputs.cache
+C:\Users\carlos.vo\c#\CsharpBasic\CarlosDataAnalyser\obj\Debug\CarlosDa.D16797A0.Up2Date
+C:\Users\carlos.vo\c#\CsharpBasic\CarlosDataAnalyser\obj\Debug\CarlosDataAnalyser.dll
+C:\Users\carlos.vo\c#\CsharpBasic\CarlosDataAnalyser\obj\Debug\CarlosDataAnalyser.pdb
